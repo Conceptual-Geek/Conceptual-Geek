@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami Ul Rehamn</h1>
 <h3 align="center">A passionate python/web/android developer & computer vision research scholar</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=conceptual-geek&label=Profile%20views&color=0e75b6&style=flat" alt="conceptual-geek" /> </p>
 
