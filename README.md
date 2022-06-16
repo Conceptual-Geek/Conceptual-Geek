@@ -1,11 +1,7 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*gsagUAsosx9prDBpilMDHw.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sami Ul Rehamn</h1>
 <h3 align="center">A passionate python/web/android developer & computer vision research scholar</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=conceptual-geek&label=Profile%20views&color=0e75b6&style=flat" alt="conceptual-geek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=conceptual-geek" alt="conceptual-geek" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -33,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=conceptual-geek&show_icons=true&locale=en" alt="conceptual-geek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=conceptual-geek&" alt="conceptual-geek" /></p>
+
