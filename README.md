@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python , Tensorflow , Pytorch**
 
-- 📫 How to reach me **sami_ul_rehman1@yahoo.com**
+- 📫 How to reach me **srehman@mail.ustc.edu.cn** / **sami_ul_rehman1@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
